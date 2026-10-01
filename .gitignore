@@ -1,0 +1,8 @@
+# competition data and everything derived from it stay local (competition rules)
+data/
+features/
+submission.csv
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+extract_features.py
